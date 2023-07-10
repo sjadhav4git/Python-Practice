@@ -23,3 +23,11 @@ several \
 lines"""
 
 print(another_split_string)
+
+#############
+
+print("C:\\Users\\tigers\\notes.txt")
+
+# or
+# raw strings
+print(r"C:\Users\tigers\notes.txt")
