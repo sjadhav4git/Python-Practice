@@ -15,3 +15,8 @@ print(parrot[-14])  # N
 
 print(parrot[0:9]) # Norweg
 print(parrot[0:9:3])
+
+print(parrot[:3])   # Nor
+print(parrot[3:])   # wegian Blue
+
+print(parrot[:])    # Norwegian Blue
