@@ -20,3 +20,5 @@ print(parrot[:3])   # Nor
 print(parrot[3:])   # wegian Blue
 
 print(parrot[:])    # Norwegian Blue
+print(parrot[-4:-2]) # Bl
+print(parrot[-4:12]) # Bl
